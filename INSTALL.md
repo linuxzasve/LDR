@@ -2,7 +2,9 @@
 ### Create the database
 As creating an database is different for almost every hosting provider or server, we'll skip this step. 
 If you're on a shared hosting, consult your control panel documentation. (Note that LDR supports *only* MySQL)
+
 ----------
+
 ### Import the database
 You need to import the LDR database using PHPMyAdmin or a similar tool, or run a SQL query yourself from the *mysql-data.sql* file.
 
