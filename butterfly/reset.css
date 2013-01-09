@@ -1,0 +1,46 @@
+/**
+ *    Butterfly's Reset.css
+ *    by @idiot
+ */
+
+* {
+	margin: 0;
+	padding: 0;
+	
+	/* Pretty fonts and all that */
+	-webkit-font-smoothing: antialiased;
+}
+
+body, html {
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+
+	min-height: 100%;
+}
+
+input, textarea {
+	font-family: inherit;
+	font-size: 100%;
+}
+
+article, aside, details, figcaption, figure, footer, header, hgroup, nav, section, summary, img {
+    display: block;
+}
+
+img {
+    -ms-interpolation-mode: bicubic;
+	border: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+nav ul, nav ol {
+	list-style: none;
+}
+
+textarea {
+	resize: vertical;
+}
