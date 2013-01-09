@@ -7,3 +7,5 @@ v. 0.01 - prva commitana verzija, samo najosnovnije funkcije, osnova za buduće 
 
 ----------
 LDR koristi Foundation, Butterfly UI, Highcharts te LightNoiseDiagonal pozadinski uzorak i razne druge alate za koje vrijedi njihova vlastita licenca.
+----------
+Contributors: iwebhub, Stefan I.
