@@ -32,3 +32,6 @@ Replace *localhost* with your SQL server, the first instance of *pulsir_ldr* wit
 and the second with the database name, and *ldrsql* with your database user's password.
 
 ----------
+
+login: root
+pass: root
